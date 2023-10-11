@@ -1,6 +1,6 @@
 # Bio-ANN
 
-The official repository for TMLR and COLLAs'23 paper "A Study of Biologically Plausible Neural Network: The Role and Interactions of Brain-Inspired Mechanisms in Continual Learning""
+The official repository for TMLR and COLLAs'23 paper "A Study of Biologically Plausible Neural Network: The Role and Interactions of Brain-Inspired Mechanisms in Continual Learning"
 We extended the [CLS-ER Repo](https://github.com/NeurAI-Lab/CLS-ER) framework with our method (Bio-ANN)
 
 ## Usage
